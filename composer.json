@@ -10,5 +10,8 @@
             "role": "Maintainer"
         }
     ],
-    "require": { }
+    "require": {
+        "drupal/paragraphs": "^1.16",
+        "kanopi/bootstrap_layout_classes": "Bootstrap Layout Classes"
+     }
 }
