@@ -5,11 +5,12 @@ install:
   # Core.
   # - example
   # Contrib.
-  # - example
+  - bootstrap_layout_classes
+  - paragraphs
 config:
   import:
     # Core.
     # module_name:
-    #  - one.config.name
+    field_ui: '*'
     # Contrib.
     # module_name: "*"
