@@ -5,9 +5,8 @@ recipes:
   - saplings-content-base
 install:
   # Core.
-  # - example
+  - text
   # Contrib.
-  - bootstrap_layout_classes
   - paragraphs
 config:
   import:
