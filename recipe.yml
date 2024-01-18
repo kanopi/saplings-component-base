@@ -8,6 +8,7 @@ install:
   - text
   # Contrib.
   - paragraphs
+  - field_ui
 config:
   import:
     # Core.

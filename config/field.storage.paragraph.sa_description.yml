@@ -3,15 +3,13 @@ status: true
 dependencies:
   module:
     - paragraphs
-id: paragraph.field_header
-field_name: field_header
+    - text
+id: paragraph.sa_field_description
+field_name: sa_description
 entity_type: paragraph
-type: string
-settings:
-  max_length: 255
-  case_sensitive: false
-  is_ascii: false
-module: core
+type: text_long
+settings: {  }
+module: text
 locked: false
 cardinality: 1
 translatable: true
