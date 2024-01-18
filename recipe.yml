@@ -1,17 +1,17 @@
 name: 'Saplings - Component base'
 description: 'Base configuration for Saplings component types.'
 type: 'Site'
+recipes:
+  - saplings-content-base
 install:
   # Core.
-  # - example
+  - text
   # Contrib.
-  - bootstrap_layout_classes
   - paragraphs
   - field_ui
 config:
   import:
     # Core.
     # module_name:
-    # field_ui: '*'
+    # example: '*'
     # Contrib.
-    paragraphs: "*"
