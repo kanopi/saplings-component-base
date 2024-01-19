@@ -1,6 +1,6 @@
 {
     "name": "kanopi/saplings-component-base",
-    "description": "Base configuration for Saplings component types.",
+    "description": "Shared configuration for Saplings component types.",
     "type": "drupal-recipe",
     "license": "GPL-2.0-or-later",
     "authors": [
@@ -11,8 +11,6 @@
         }
     ],
     "require": {
-        "drupal/paragraphs": "^1.16",
-        "kanopi/bootstrap_layout_classes": "*",
-        "kanopi/saplings-content-base": "*"
+        "drupal/paragraphs": "^1.16"
      }
 }
