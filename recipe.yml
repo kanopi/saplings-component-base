@@ -2,7 +2,7 @@ name: 'Saplings - Component base'
 description: 'Base configuration for Saplings component types.'
 type: 'Site'
 recipes:
-  - saplings-content-base
+  - saplings-content-types
 install:
   # Core.
   - text
