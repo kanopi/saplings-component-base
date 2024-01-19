@@ -1,8 +1,6 @@
 name: 'Saplings - Component base'
 description: 'Shared configuration for Saplings component types.'
 type: 'Site'
-recipes:
-  - saplings-content-types
 install:
   # Core.
   - text
