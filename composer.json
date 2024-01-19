@@ -12,7 +12,6 @@
     ],
     "require": {
         "drupal/paragraphs": "^1.16",
-        "kanopi/bootstrap_layout_classes": "*",
         "kanopi/saplings-content-types": "*"
      }
 }
