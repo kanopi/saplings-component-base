@@ -4,7 +4,7 @@ dependencies:
   module:
     - paragraphs
     - text
-id: paragraph.sa_field_description
+id: paragraph.sa_description
 field_name: sa_description
 entity_type: paragraph
 type: text_long
