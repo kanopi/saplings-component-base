@@ -3,6 +3,7 @@ description: 'Shared configuration for Saplings component types.'
 type: 'Site'
 install:
   # Core.
+  - media
   - text
   # Contrib.
   - focal_point
