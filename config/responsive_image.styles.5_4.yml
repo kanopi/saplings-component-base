@@ -1,0 +1,40 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.5_4_1320x1056
+    - image.style.5_4_1920x1536
+    - image.style.5_4_2640x2112
+    - image.style.5_4_3840x3072
+    - image.style.5_4_960x768
+  module:
+    - saplings_custom
+id: '5_4'
+label: '5:4'
+image_style_mappings:
+  -
+    image_mapping_type: sizes
+    image_mapping:
+      sizes: 100vw
+      sizes_image_styles:
+        - 5_4_960x768
+        - 5_4_1320x1056
+        - 5_4_1920x1536
+        - 5_4_2640x2112
+        - 5_4_3840x3072
+    breakpoint_id: saplings_custom.retina
+    multiplier: 1x
+  -
+    image_mapping_type: sizes
+    image_mapping:
+      sizes: 100vw
+      sizes_image_styles:
+        - 5_4_960x768
+        - 5_4_1320x1056
+        - 5_4_1920x1536
+        - 5_4_2640x2112
+        - 5_4_3840x3072
+    breakpoint_id: saplings_custom.retina
+    multiplier: 2x
+breakpoint_group: saplings_custom
+fallback_image_style: 5_4_1320x1056

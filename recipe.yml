@@ -6,3 +6,5 @@ install:
   - text
   # Contrib.
   - paragraphs
+  - responsive_image
+  - saplings_custom
