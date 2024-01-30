@@ -11,6 +11,10 @@
         }
     ],
     "require": {
-        "drupal/paragraphs": "^1.16"
+        "drupal/focal_point": "*",
+        "drupal/nomarkup": "*",
+        "drupal/paragraphs": "^1.16",
+        "drupal/responsive_image": "*",
+        "kanopi/saplings_custom": "*"
      }
 }
