@@ -5,6 +5,8 @@ install:
   # Core.
   - text
   # Contrib.
+  - focal_point
+  - nomarkup
   - paragraphs
   - responsive_image
   - saplings_custom
