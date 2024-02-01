@@ -3,7 +3,7 @@ status: true
 dependencies:
   module:
     - focal_point
-name: 5_4_960x768
+name: sa_5_4_960
 label: '5:4 - 960x768'
 effects:
   321f6aef-67c5-4ad8-830b-4b593cd6fe1d:
