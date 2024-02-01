@@ -2,23 +2,23 @@ langcode: en
 status: true
 dependencies:
   config:
-    - core.entity_view_mode.media.5_4
+    - core.entity_view_mode.media.sa_5_4
     - field.field.media.image.field_media_image
     - media.type.image
-    - responsive_image.styles.5_4
+    - responsive_image.styles.sa_5_4
   module:
     - nomarkup
     - responsive_image
-id: media.image.5_4
+id: media.image.sa_5_4
 targetEntityType: media
 bundle: image
-mode: '5_4'
+mode: 'sa_5_4'
 content:
   field_media_image:
     type: responsive_image
     label: visually_hidden
     settings:
-      responsive_image_style: '5_4'
+      responsive_image_style: 'sa_5_4'
       image_link: ''
       image_loading:
         attribute: eager
