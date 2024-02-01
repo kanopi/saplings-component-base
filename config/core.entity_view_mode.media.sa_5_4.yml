@@ -3,7 +3,7 @@ status: true
 dependencies:
   module:
     - media
-id: media.5_4
+id: media.sa_5_4
 label: '5:4'
 description: ''
 targetEntityType: media
