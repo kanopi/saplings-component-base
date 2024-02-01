@@ -3,7 +3,7 @@ status: true
 dependencies:
   module:
     - focal_point
-name: 5_4_3840x3072
+name: sa_5_4_3840
 label: '5:4 - 3840x3072'
 effects:
   806293d1-b690-4224-b83a-fc826aa438e6:
