@@ -4,24 +4,18 @@ dependencies:
   module:
     - options
     - paragraphs
-id: paragraph.sa_col
-field_name: sa_col
+id: paragraph.sa_container
+field_name: sa_container
 entity_type: paragraph
 type: list_string
 settings:
   allowed_values:
     -
-      value: 'col-lg-9 col-12'
-      label: 75%
+      value: container
+      label: Standard
     -
-      value: 'col-lg-6 col-12'
-      label: 50%
-    -
-      value: 'col-lg-3 col-12'
-      label: 25%
-    -
-      value: 'col-lg-4 col-12'
-      label: 33%
+      value: container-fluid
+      label: 'Full Width'
   allowed_values_function: ''
 module: options
 locked: false
