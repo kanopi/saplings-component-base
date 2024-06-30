@@ -1,17 +1,7 @@
+![saplings](https://github.com/kanopi/saplings/assets/5177009/a6377e32-deb2-49d8-873a-f3dd5a36fa7c)
+
 # Saplings Component Base
 
-## Overview
+Shared configuration for Saplings component types.
 
-Welcome to the Saplings Component Base repository! This repository provides base fields and configurations for the Paragraph component type within the Saplings application.
-
-## Features
-
-- Offers foundational fields and configurations required for creating Paragraphs in Saplings.
-
-## Getting Started
-
-To start using Saplings Component Base, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kanopi/saplings-component-base.git
+* Field storage for shared fields.
