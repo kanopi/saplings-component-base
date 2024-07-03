@@ -7,3 +7,4 @@ install:
   - text
   # Contrib.
   - paragraphs
+  - saplings_paragraphs
