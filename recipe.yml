@@ -8,3 +8,7 @@ install:
   # Contrib.
   - paragraphs
   - saplings_paragraphs
+  - ui_icons
+  - ui_icons_backport
+  - ui_icons_field
+  - ui_icons_picker
