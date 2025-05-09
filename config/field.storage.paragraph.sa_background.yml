@@ -11,12 +11,6 @@ type: list_string
 settings:
   allowed_values:
     -
-      value: text-bg-primary
-      label: Primary
-    -
-      value: text-bg-secondary
-      label: Secondary
-    -
       value: text-bg-dark
       label: Dark
     -
