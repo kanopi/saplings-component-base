@@ -12,6 +12,7 @@
     ],
     "require": {
         "drupal/paragraphs": "^1.16",
+        "drupal/ui_icons": "^1.1@beta",
         "kanopi/saplings_paragraphs": "^1.0"
      }
 }
